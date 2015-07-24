@@ -1,0 +1,27 @@
+{
+  "name": "kraken-format-path",
+  "version": "1.0.0",
+  "description": "The default locale-to-path formatter for krakenjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krakenjs/kraken-format-path.git"
+  },
+  "keywords": [
+    "i18n",
+    "krakenjs"
+  ],
+  "author": "Aria Stewart <ariastewart@paypal.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/krakenjs/kraken-format-path/issues"
+  },
+  "homepage": "https://github.com/krakenjs/kraken-format-path#readme",
+  "devDependencies": {
+    "bcp47": "^1.1.2",
+    "tap": "^1.3.1"
+  }
+}
